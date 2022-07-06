@@ -24,10 +24,10 @@ namespace Operators_Exercise;
 
         }
 
-        public void NewDiv(int a, int b) {
-            int quotient = a / b;
-            int remainder = a % b;
-            Console.WriteLine($"{ a } / { b } is { quotient } remainder { remainder }");
+    //// Exercise 2 - Calculate area of a circle with a given radius
+
+        public static double Area(double r) {
+            return Math.PI * Math.Pow(r, 2);
         }
 
     }
