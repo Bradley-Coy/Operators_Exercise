@@ -12,6 +12,7 @@ if (selection == 6) { //// Exercise 2
     double radius = Convert.ToDouble(Console.ReadLine());
     Console.WriteLine("The area is equal to " + Calc.Area(radius));
 }
+
 else if (selection == 7) {
     Console.WriteLine("The quotient of 17 and 4 is: " + NewDiv.Quo(17, 4));
     Console.WriteLine("The remainder of 17 and 4 is: " + NewDiv.Rem(17, 4));
