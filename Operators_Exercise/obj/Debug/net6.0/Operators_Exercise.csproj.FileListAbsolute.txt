@@ -1,0 +1,15 @@
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.csproj.AssemblyReference.cache
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.AssemblyInfoInputs.cache
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.AssemblyInfo.cs
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.csproj.CoreCompileInputs.cache
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/bin/Debug/net6.0/Operators_Exercise
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/bin/Debug/net6.0/Operators_Exercise.deps.json
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/bin/Debug/net6.0/Operators_Exercise.runtimeconfig.json
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/bin/Debug/net6.0/Operators_Exercise.dll
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/bin/Debug/net6.0/Operators_Exercise.pdb
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.dll
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/refint/Operators_Exercise.dll
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.pdb
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/Operators_Exercise.genruntimeconfig.cache
+/Users/bradleycoy/Projects/Operators_Exercise/Operators_Exercise/obj/Debug/net6.0/ref/Operators_Exercise.dll
